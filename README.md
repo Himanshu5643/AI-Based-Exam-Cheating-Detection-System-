@@ -22,7 +22,7 @@ The project detects suspicious activities using real-time face tracking, eye gaz
 1. Open the notebook in Google Colab or Jupyter Notebook
 2. Install required libraries
 3. Run all cells
-
+[Open in Colab](https://colab.research.google.com/)
 ## Author
 Himanshu Chaubey
 Computer Science Engineering Student
